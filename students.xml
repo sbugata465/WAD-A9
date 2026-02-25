@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<University>
+    <student id="101">
+        <Name>Abhishek</Name>
+        <Role>Student</Role>
+        <Department>Computer Science</Department>
+    </student>
+    <student id="102">
+        <Name>Hasita</Name>
+        <Role>Student</Role>
+        <Department>Computer Science AIML</Department>
+    </student>
+    <student id="103">
+        <Name>Ram</Name>
+        <Role>Student</Role>
+        <Department>Computer Science</Department>
+    </student>
+    <student id="104">
+        <Name>Tejash</Name>
+        <Role>Student</Role>
+        <Department>Computer Science</Department>
+    </student>
+    <student id="105">
+        <Name>Siva Ram</Name>
+        <Role>Student</Role>
+        <Department>Computer Science DS</Department>
+    </student>
+    <student id="201">
+        <Name>Dr. Manohar</Name>
+        <Role>Faculty</Role>
+        <Department>DS</Department>
+    </student>
+    <student id="202">
+        <Name>Dr. Suresh</Name>
+        <Role>Faculty</Role>
+        <Department>WAD</Department>
+    </student>
+    <student id="203">
+        <Name>Dr. Yashodha</Name>
+        <Role>Faculty</Role>
+        <Department>C</Department>
+    </student>
+    <student id="204">
+        <Name>Abdul Razaik</Name>
+        <Role>Faculty</Role>
+        <Department>Solar Energy</Department>
+    </student>
+    <student id="205">
+        <Name>Dr. Praveena</Name>
+        <Role>Faculty</Role>
+        <Department>DBMS</Department>
+    </student>
+</University>

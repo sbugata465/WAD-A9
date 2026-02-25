@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE Bookstore SYSTEM "books.dtd">
+<Bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+           xsi:noNamespaceSchemaLocation="books.xsd">    
+    <Book>
+        <Title>A Song of Ice and Fire</Title>
+        <Author>George R.R. Martin</Author>
+        <ISBN>978-0553103540</ISBN>
+        <Publisher>Bantam Spectra</Publisher>
+        <Edition>1st</Edition>
+        <Price>400</Price>
+    </Book>
+    <Book>
+        <Title>The Silent Patient</Title>
+        <Author>Alex Michaelides</Author>
+        <ISBN>978-1250301697</ISBN>
+        <Publisher>Celadon Books</Publisher>
+        <Edition>1st</Edition>
+        <Price>250</Price>
+    </Book>
+        <Book>
+        <Title>11/22/63</Title>
+        <Author>Stephen King</Author>
+        <ISBN>978-1451627282</ISBN>
+        <Publisher>Scribner</Publisher>
+        <Edition>1st</Edition>
+        <Price>200</Price>
+    </Book>
+    <Book>
+        <Title>White Knights</Title>
+        <Author>Edward W. Robertson</Author>
+        <ISBN>978-1494285142</ISBN>
+        <Publisher>CreateSpace</Publisher>
+        <Edition>Revised</Edition>
+        <Price>150</Price>
+    </Book>
+    <Book>
+        <Title>The Metamorphosis</Title>
+        <Author>Franz Kafka</Author>
+        <ISBN>978-0141199641</ISBN>
+        <Publisher>Penguin Classics</Publisher>
+        <Edition>Reprint</Edition>
+        <Price>350</Price>
+    </Book>
+</Bookstore>
