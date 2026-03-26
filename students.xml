@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="students.xsl"?>
 <University>
     <student id="101">
-        <Name>Tejash Varma</Name>
+        <Name>Abhishek Bugata</Name>
         <Role>Student</Role>
         <Department>Computer Science</Department>
     </student>
@@ -17,7 +17,7 @@
         <Department>Computer Science</Department>
     </student>
     <student id="104">
-        <Name>Abhinav Reddy</Name>
+        <Name>Tejash Varma</Name>
         <Role>Student</Role>
         <Department>Computer Science</Department>
     </student>
